@@ -1,7 +1,7 @@
 # battery_notifier
 
 ## Prérequis
-> apt install acpi
+> sudo apt install acpi
 
 ## Installation
 > cd battery_notifier

@@ -5,7 +5,9 @@
 
 ## Installation
 > cd battery_notifier
+
 > gcc battery_notifier.c -o battery_notifier_comp
+
 > nano battery_notifier.sh
 
 Rentrer les lignes suivantes:
